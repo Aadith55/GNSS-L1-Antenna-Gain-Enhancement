@@ -179,6 +179,11 @@ See [the detailed results summary](docs/results-summary.md) and [project notes](
 
 Native simulation projects can depend on software version, local settings, linked files, and cached result data. Open each project in the relevant software and verify that the expected designs and results are available before attempting to reproduce the reported values.
 
-## Source documents
 
-The descriptions and numerical values in this README are based on the project's WAMS Phase 1 paper and the Phase 2 end-semester report. The complete reports are not included here.
+## Source Documents
+
+The project descriptions and reported results are based on the following documents:
+
+- [Phase 1 — WAMS Conference Paper](docs/reports/phase-1-wams-paper.pdf)
+- [Phase 2 — End-Semester Project Report](docs/reports/phase-2-end-semester-report.pdf)
+
