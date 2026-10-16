@@ -181,4 +181,4 @@ Native simulation projects can depend on software version, local settings, linke
 
 ## Source documents
 
-The descriptions and numerical values in this README are based on the project's WAMS Phase 1 paper and the Phase 2 end-semester report. The complete reports are not included here. Add publication links or report documents only after confirming what is appropriate to make public and checking co-author / institutional sharing requirements.
+The descriptions and numerical values in this README are based on the project's WAMS Phase 1 paper and the Phase 2 end-semester report. The complete reports are not included here.
