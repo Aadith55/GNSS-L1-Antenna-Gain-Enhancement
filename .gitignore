@@ -1,0 +1,9 @@
+# Simulation outputs and temporary files
+*.aedtresults/
+*.results/
+*.log
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
