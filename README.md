@@ -65,4 +65,4 @@ Native HFSS/CST project files should be placed under `models/` once uploaded. Op
 
 ## Source documents
 
-The technical summary is based on the WAMS final CRC paper for Phase 1 and the end-semester project report for Phase 2. The full source documents are not included here; add them only after deciding what to make public and confirming publication/personal-information considerations.
+The technical summary is based on the WAMS final CRC paper for Phase 1 and the end-semester project report for Phase 2.
