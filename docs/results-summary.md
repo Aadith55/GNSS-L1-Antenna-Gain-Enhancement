@@ -19,4 +19,3 @@ The paper reports measured S11 of -22.186 dB at 1.632 GHz for the fabricated pro
 | 2×2 SRR array | -19.96 dB | 2.45 dB | +0.52 dB |
 | 4×4 SRR array | -20.05 dB | 2.65 dB | +0.72 dB |
 
-Values are taken from the project report. The report identifies the 2×2 and 4×4 superstrate heights as 11 mm and 40 mm, respectively.
